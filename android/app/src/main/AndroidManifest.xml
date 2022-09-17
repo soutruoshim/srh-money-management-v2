@@ -16,7 +16,7 @@
         android:requestLegacyExternalStorage="true">
         <!-- Set up the Sign in with Apple activity, such that it's callable from the browser-redirect -->
         <activity
-            android:name="com.srhdp.moneymangement">
+            android:name="com.srhdp.moneymangement"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.VIEW" />
