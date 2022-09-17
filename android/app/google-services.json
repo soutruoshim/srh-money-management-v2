@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "131206984899",
+    "firebase_url": "https://srh-money-mangement-default-rtdb.firebaseio.com",
+    "project_id": "srh-money-mangement",
+    "storage_bucket": "srh-money-mangement.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:131206984899:android:5b6a852c55ed5ae9de9e76",
+        "android_client_info": {
+          "package_name": "com.srhdp.moneymangement"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "131206984899-2msorasq6jr3a8vlovpgkb00d8dgj0qv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.srhdp.moneymangement",
+            "certificate_hash": "9f2f4209f693726edb02cb7d6444cb51dec9427e"
+          }
+        },
+        {
+          "client_id": "131206984899-rck4bbn5o78e3l6cssoi0oms1k5982t9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBJ5i0Cu11ENGtsJZMGur3_vWWkGYItFAw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "131206984899-rck4bbn5o78e3l6cssoi0oms1k5982t9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,1 @@
+enum TypeDate { MONTHLY, YEARLY, ALLTIME }
