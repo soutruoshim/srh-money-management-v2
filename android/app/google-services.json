@@ -15,11 +15,11 @@
       },
       "oauth_client": [
         {
-          "client_id": "131206984899-2msorasq6jr3a8vlovpgkb00d8dgj0qv.apps.googleusercontent.com",
+          "client_id": "131206984899-vbp0fs3ec1p22c06bh4vh590d2ng27p9.apps.googleusercontent.com",
           "client_type": 1,
           "android_info": {
             "package_name": "com.srhdp.moneymangement",
-            "certificate_hash": "9f2f4209f693726edb02cb7d6444cb51dec9427e"
+            "certificate_hash": "a9bc743f579831402441f06e73b47ae2f3dc805a"
           }
         },
         {

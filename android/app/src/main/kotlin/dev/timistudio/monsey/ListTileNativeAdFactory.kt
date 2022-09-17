@@ -5,9 +5,7 @@ import android.view.LayoutInflater
 import android.view.View
 import android.widget.ImageView
 import android.widget.TextView
-import com.google.android.gms.ads.nativead.NativeAd
-import com.google.android.gms.ads.nativead.NativeAdView
-import io.flutter.plugins.googlemobileads.GoogleMobileAdsPlugin
+
 
 class ListTileNativeAdFactory(val context: Context)  {
 
